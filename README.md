@@ -1,6 +1,6 @@
 # RestWithASP-NET5Udemy
 <h1 align="center">
-    <img alt="Udemy" title="Udemy" src="https://larocqueinc.com/wp-content/uploads/2020/02/udemy-logo.png" />
+    <img alt="Udemy" title="Udemy" src="https://larocqueinc.com/wp-content/uploads/2020/02/udemy-logo.png" width=400/>
 </h1>
 
 <p align="center">
@@ -18,14 +18,17 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [JavaScript]
-- [HTML]
-- [CSS]
-- [LocalStorage]
+- [ASP.NET]
+- [MySQL]
+- [Docker]
+- [Azure]
+- [React]
 
 ## 💻 Projeto
 
 Projeto desenvolvido durante o curso RESTful apis do 0 a nuvem com ASP.NET Core e docker.
+
+https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/
 
 ---
 
