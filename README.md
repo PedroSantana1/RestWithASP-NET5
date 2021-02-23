@@ -1,6 +1,6 @@
 # RestWithASP-NET5Udemy
 <h1 align="center">
-    <img alt="DevFinances" title="Happy" src="./assets/logo.svg" />
+    <img alt="Udemy" title="Udemy" src="https://larocqueinc.com/wp-content/uploads/2020/02/udemy-logo.png" />
 </h1>
 
 <p align="center">
