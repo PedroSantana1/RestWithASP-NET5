@@ -12,7 +12,6 @@
 
 <p align="center">
   <img alt="DevFinaces" src="https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_a_nuvem_com_asp_net_core_e_docker.png?raw=true" width="100%">
-  [![Build Status](https://travis-ci.com/PedroSantana1/RestWithASP-NET5.svg?branch=main)](https://travis-ci.com/PedroSantana1/RestWithASP-NET5)
 </p>
 
 ## 🚀 Tecnologias
